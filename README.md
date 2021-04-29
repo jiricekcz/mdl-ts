@@ -1,2 +1,1 @@
-# mdl-ts
-Multi-language drawing library
+# Multi-language drawing library in TypeScript
